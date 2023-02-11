@@ -1,6 +1,6 @@
 # AngelProject
 
-A new Flutter project.
+An mobile app for ethnographers to take field notes about a specific place then look at committed global notes of others in real time.
 
 ## Getting Started
 
