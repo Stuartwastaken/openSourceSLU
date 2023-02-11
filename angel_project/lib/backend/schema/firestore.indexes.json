@@ -1,0 +1,32 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "FieldNote",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "user",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "date",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "FieldNote",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "globalEntry",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "date",
+          "order": "DESCENDING"
+        }
+      ]
+    }
+  ]
+}
